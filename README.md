@@ -2,7 +2,7 @@
 
 <!Doctype HTML>
 <html>
- <title>Sabbir Hossen Profile</title>
+ 
  </head>
  <body>
  <main>
