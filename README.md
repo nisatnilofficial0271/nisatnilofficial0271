@@ -2,22 +2,6 @@
 
 <!Doctype HTML>
 <html>
- 
-
-  margin-top: 0;
-
-}
-
-/* style the description */
-
-p {
-
-  font-style: italic;
-
-  margin-top: 0;
-
-}
- </style>
  </head>
  <body>
  <main>
