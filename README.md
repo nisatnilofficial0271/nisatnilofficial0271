@@ -2,6 +2,9 @@
 
 <!Doctype HTML>
 <html>
+ <head>
+  <title>Sabbir Hossen Profile</title>
+<link rel="stylesheet" href="style.css">
  </head>
  <body>
  <main>
