@@ -1,12 +1,4 @@
-<!-- Avatar -->
-
-<img style="float: center;
-
-  margin-right: 1rem;
-
-  border-radius: 50%;
-
-  box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);" alt='Me' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxSlIPsDAwxcoCooaiz-1zAYUPRF-V2aq-EBKA6B-TwzNuMVwh-EsnPC4VbVzhDtTiIWJldG2PkDr65B2VsjsnMIzRpzt_P49h3h3tawnuOchzYwhemr9TtuvLN0o5D3v-Etf_bjzgPpXyPzOTCPNqd1Q4139bzyme0M5J1M41jF2hvQLRlGb5YwyP/s4000/Picsart_22-10-14_14-39-08-407.jpg'height="400"width="280"/>
+<img alt='Me' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxSlIPsDAwxcoCooaiz-1zAYUPRF-V2aq-EBKA6B-TwzNuMVwh-EsnPC4VbVzhDtTiIWJldG2PkDr65B2VsjsnMIzRpzt_P49h3h3tawnuOchzYwhemr9TtuvLN0o5D3v-Etf_bjzgPpXyPzOTCPNqd1Q4139bzyme0M5J1M41jF2hvQLRlGb5YwyP/s4000/Picsart_22-10-14_14-39-08-407.jpg'height="400"width="280"/>
 <h1 align="center">Hi 👋, I'm Nisat Ahmed Nil</h1>
 <h3 align="center">I Am A Devoloper Of Bd Website.</h3>
 
